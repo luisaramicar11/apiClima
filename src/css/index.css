@@ -1,6 +1,23 @@
-html,
-body {
-  height: 100%;
+/******************Reseteo******************/
+html{
+  box-sizing: border-box;
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+*,
+*:before,
+*:after {
+  box-sizing:inherit;
+}
+
+body{
+  margin:0;
+  overflow-x: hidden;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
 }
 
 .form-signin {
