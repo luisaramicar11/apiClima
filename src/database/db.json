@@ -1,0 +1,68 @@
+{
+  "cities": [
+    {
+      "country": "España",
+      "city": "Madrid",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "Evaluación del impacto climático en el año actual",
+      "date": "Sun Aug 04 2024",
+      "id": "1"
+    },
+    {
+      "country": "Colombia",
+      "city": "Pasto",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "sgsg",
+      "date": "Sat Aug 03 2024",
+      "id": "2"
+    },
+    {
+      "id": "6373",
+      "country": "Colombia",
+      "city": "Bogota",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "fsfs",
+      "date": "Sat Aug 03 2024"
+    },
+    {
+      "id": "84ce",
+      "country": "Colombia ",
+      "city": "Medellin",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "agaffa",
+      "date": "Sat Aug 03 2024"
+    },
+    {
+      "id": "e961",
+      "country": "Colombia",
+      "city": "rionegro",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "rutina",
+      "date": "Sun Aug 04 2024"
+    },
+    {
+      "id": "2285",
+      "country": "Colombia",
+      "city": "barranquilla",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "n",
+      "date": "Sun Aug 04 2024"
+    },
+    {
+      "id": "010c",
+      "country": "Colombia",
+      "city": "cartagena",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "sgsg",
+      "date": "Sun Aug 04 2024"
+    },
+    {
+      "id": "d60c",
+      "country": "Colombia",
+      "city": "Bogota",
+      "image": "https://humanidades.com/wp-content/uploads/2017/05/espa%C3%B1a-e1570587847613-800x416.jpg",
+      "reasonForAnalysis": "hh",
+      "date": "Sun Aug 04 2024"
+    }
+  ]
+}
