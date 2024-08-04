@@ -8,7 +8,7 @@ export class ClimateController {
     }
 
     async temperatureCity(city:string): Promise<BodyResponseClimate>{
-        
+        console.log(city);
         const response = await fetch(`${this.domain}/weather?q=${city}&appid=a690df0ab5fc04d10597a27f2f0c4a0d`);
         if(!response.ok){
             throw new Error(`HTTP error! status: ${response.status}`);
